@@ -1,0 +1,6 @@
+# Only needed to regenerate the ASCII portrait from a photo.
+-r requirements.txt
+Pillow>=10.0
+numpy>=1.26
+opencv-python-headless>=4.9
+cairosvg>=2.7

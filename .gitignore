@@ -1,0 +1,5 @@
+assets/portrait.png
+__pycache__/
+*.static.svg
+_to_delete/
+*.tar.gz

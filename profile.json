@@ -1,0 +1,50 @@
+{
+  "username": "hkmehul3",
+  "name": "Harseet Tiwari",
+  "tagline": "AI Engineer · Backend Developer · Final-year CS student",
+  "prompt": "harseet@github",
+  "info": [
+    ["role", "AI Engineer · Backend Dev"],
+    ["focus", "LLM systems, multi-agent pipelines, RAG"],
+    ["stack", "Python · LangGraph · FastAPI"],
+    ["cloud", "Docker · Kubernetes · GCP · Azure"],
+    ["studying", "B.Tech CS, MIT-WPU — May 2026"],
+    ["located", "Pune, India"],
+    ["status", "open to AI/ML roles from June 2026"]
+  ],
+  "highlights": [
+    "Won IBM Bob the Builder Hackathon 2026",
+    "OpenENV — multi-agent incident detection",
+    "RAGScope — RAG observability at 1k+ concurrent calls",
+    "40 public repos, mostly Python"
+  ],
+  "links": [
+    {
+      "label": "LinkedIn",
+      "value": "hkharseet5",
+      "url": "https://linkedin.com/in/hkharseet5",
+      "color": "0A66C2",
+      "logo": "linkedin"
+    },
+    {
+      "label": "Email",
+      "value": "tiwariharseet",
+      "url": "mailto:tiwariharseet@gmail.com",
+      "color": "EA4335",
+      "logo": "gmail"
+    },
+    {
+      "label": "GitHub",
+      "value": "hkmehul3",
+      "url": "https://github.com/hkmehul3",
+      "color": "181717",
+      "logo": "github"
+    }
+  ],
+  "portrait": {
+    "crop": [0.275, 0.35, 0.725, 0.68],
+    "cols": 88,
+    "gamma": 0.8,
+    "floor": 0.04
+  }
+}

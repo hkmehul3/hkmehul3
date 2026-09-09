@@ -17,7 +17,6 @@
 <text x="8.0" y="71.0" font-size="9" fill="#484f58">Mon</text>
 <text x="8.0" y="101.0" font-size="9" fill="#484f58">Wed</text>
 <text x="8.0" y="131.0" font-size="9" fill="#484f58">Fri</text>
-<rect x="34.0" y="76.0" width="12.0" height="12.0" rx="2.5" fill="#161b22" opacity="1"><title>2025-09-09: 0 contributions</title><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.00567;0.03692;1" dur="14.40s" repeatCount="indefinite"/></rect>
 <rect x="34.0" y="91.0" width="12.0" height="12.0" rx="2.5" fill="#161b22" opacity="1"><title>2025-09-10: 0 contributions</title><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.00850;0.03975;1" dur="14.40s" repeatCount="indefinite"/></rect>
 <rect x="34.0" y="106.0" width="12.0" height="12.0" rx="2.5" fill="#161b22" opacity="1"><title>2025-09-11: 0 contributions</title><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.01133;0.04258;1" dur="14.40s" repeatCount="indefinite"/></rect>
 <rect x="34.0" y="121.0" width="12.0" height="12.0" rx="2.5" fill="#161b22" opacity="1"><title>2025-09-12: 0 contributions</title><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.01417;0.04542;1" dur="14.40s" repeatCount="indefinite"/></rect>
@@ -382,6 +381,7 @@
 <rect x="814.0" y="46.0" width="12.0" height="12.0" rx="2.5" fill="#0e4429" opacity="1"><title>2026-09-06: 1 contribution</title><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.21722;0.24847;1" dur="14.40s" repeatCount="indefinite"/></rect>
 <rect x="814.0" y="61.0" width="12.0" height="12.0" rx="2.5" fill="#161b22" opacity="1"><title>2026-09-07: 0 contributions</title><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.22006;0.25131;1" dur="14.40s" repeatCount="indefinite"/></rect>
 <rect x="814.0" y="76.0" width="12.0" height="12.0" rx="2.5" fill="#161b22" opacity="1"><title>2026-09-08: 0 contributions</title><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.22289;0.25414;1" dur="14.40s" repeatCount="indefinite"/></rect>
+<rect x="814.0" y="91.0" width="12.0" height="12.0" rx="2.5" fill="#161b22" opacity="1"><title>2026-09-09: 0 contributions</title><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.22572;0.25697;1" dur="14.40s" repeatCount="indefinite"/></rect>
 <text x="34.0" y="177.0" font-size="11.5" fill="#c9d1d9"><tspan fill="#22d3ee">97</tspan> contributions in the last year<tspan fill="#484f58">   |   </tspan><tspan fill="#22d3ee">0</tspan> day current streak<tspan fill="#484f58">   |   </tspan><tspan fill="#22d3ee">2</tspan> day best</text>
 <text x="687.0" y="177.0" font-size="10" fill="#484f58">less</text>
 <rect x="713.0" y="168.0" width="12.0" height="12.0" rx="2.5" fill="#161b22"/>
